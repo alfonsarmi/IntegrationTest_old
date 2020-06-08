@@ -1,6 +1,6 @@
 ﻿namespace BasicMetrics_Test
 {
-    class BasicMetricsTest
+    class BasicMetricsTest2
     {
         //This is a comment in class
         private void BasicMetricsTest_Method(int a)
